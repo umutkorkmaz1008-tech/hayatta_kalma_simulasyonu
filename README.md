@@ -42,6 +42,3 @@ Bu proje, **C dili** kullanılarak geliştirilmiş bir **metin tabanlı Hayatta 
 
 ---
 
-## GitHub Linki
-Proje public olarak yüklendi:  
-[https://github.com/KULLANICI_ADIN/hayatta-kalma-simulasyonu](https://github.com/KULLANICI_ADIN/hayatta-kalma-simulasyonu)
